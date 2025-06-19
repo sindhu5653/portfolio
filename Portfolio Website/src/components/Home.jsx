@@ -1,7 +1,7 @@
 import React from 'react'
 import FrontpageImage from '../assets/firstimage.jpg'
 
-const Frontpage = () => {
+const Home = () => {
   return (
     <div className='bg-black text-white text-center py-16'>
         <img 
@@ -24,4 +24,4 @@ const Frontpage = () => {
   )
 }
 
-export default Frontpage;
+export default Home;

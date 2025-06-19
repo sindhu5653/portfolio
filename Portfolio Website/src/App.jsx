@@ -1,16 +1,16 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import Frontpage from './components/Frontpage'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Qualification from './components/Qualification'
+import Home from './components/Home'
 
 const App = () => {
   return (
     <div>
       <Navbar/>
-      <Frontpage/>
+      <Home/>
       <About/>
       <Qualification/>
       <Projects/>

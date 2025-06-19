@@ -9,7 +9,7 @@ const Navbar = () => {
                     <a href="#home" className='hover:text-gray-400'>Home</a>
                     <a href="#about" className='hover:text-gray-400'>About Me</a>
                     <a href="#qualification" className='hover:text-gray-400'>Qualification</a>
-                    <a href="#service" className='hover:text-gray-400'>Services</a>
+                    {/* <a href="#service" className='hover:text-gray-400'>Services</a> */}
                     <a href="#projects" className='hover:text-gray-400'>Projects</a>
                     <a href="#contact" className='hover:text-gray-400'>Contact</a>
                 </div>
