@@ -4,6 +4,7 @@ import Frontpage from './components/Frontpage'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
+import Qualification from './components/Qualification'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Navbar/>
       <Frontpage/>
       <About/>
+      <Qualification/>
       <Projects/>
       <Contact/>
       {/* <Footer/> */}

@@ -1,5 +1,5 @@
 import React from 'react'
-import FrontpageImage from '../assets/sindhu.jpg'
+import FrontpageImage from '../assets/firstimage.jpg'
 
 const Frontpage = () => {
   return (
