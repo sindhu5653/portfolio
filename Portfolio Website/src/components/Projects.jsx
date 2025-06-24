@@ -3,7 +3,7 @@ import React from 'react'
 const projects = [
     {
         id: 1,
-        name: "Grocery Website",
+        name: "Grocerry Website",
         technologies: "HTML,React",
     },
     {
